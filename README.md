@@ -1,1 +1,1 @@
-# odin-recipes
+My current project is to create a recipe website. It must feature an index have photos, and links to the recipes. I will be able to do all of this using the knowledge from the previous html-boilerplate, and the odin-links-and-images lesson.
